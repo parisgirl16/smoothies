@@ -1,0 +1,22 @@
+body {
+  background: lightpink;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+article {
+  border: solid pink 2px;
+  padding: 10px;
+}
+
+.name {
+  padding-top: 10px
+}
+
+.servings {
+  border-bottom: solid pink 2px;
+  padding-bottom: 20px
+}
